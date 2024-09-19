@@ -43,7 +43,7 @@ The primary goal of this project is to analyze construction project spending and
 - **Construction Spending** and **Total Spending** are highly correlated (0.99), showing that construction phase costs are the major driver of overall project costs.
 - **Design Spending** also has a strong correlation (0.94) with **Total Spending**.
 - **Project Duration** and **Number of Stakeholders** show little correlation with spending, indicating they have minimal impact on total project costs.
-
+![alt text](image-5.png)
 
 ## Visualizations
 - **Scatter Plot**: Displays the distribution of construction spending by **year** and **cluster**, showing how spending has been segmented across time.
@@ -53,7 +53,7 @@ The primary goal of this project is to analyze construction project spending and
 - **Spending Trend**: Line charts showing the total construction spending over time, with a peak in **2017** and recovery from **2022**.
 
 - **Heatmap**: Correlation heatmap showing the relationships between different variables like **Total Spending**, **Design Spending**, and **Construction Spending**.
-![alt text](image-5.png)
+
 
 ## Recommendations
 1. **Focus on High-Spending Clusters**: Clusters **1 and 3** contain the highest-value projects. Focusing resources on these clusters can ensure cost efficiency and better investment returns.
