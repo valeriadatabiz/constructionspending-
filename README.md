@@ -43,6 +43,7 @@ The primary goal of this project is to analyze construction project spending and
 - **Construction Spending** and **Total Spending** are highly correlated (0.99), showing that construction phase costs are the major driver of overall project costs.
 - **Design Spending** also has a strong correlation (0.94) with **Total Spending**.
 - **Project Duration** and **Number of Stakeholders** show little correlation with spending, indicating they have minimal impact on total project costs.
+  
 ![alt text](image-5.png)
 
 ## Visualizations
