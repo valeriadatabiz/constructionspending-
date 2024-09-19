@@ -60,7 +60,7 @@ The primary goal of this project is to analyze construction project spending and
 2. **Year-Based Planning**: Given the decline in spending during **2018** and subsequent recovery, it’s essential to forecast investments based on macroeconomic factors.
 3. **Leverage Correlations**: Strong correlations between **Design Spending** and **Construction Spending** indicate that organizations should prioritize these phases for cost-effective project outcomes.
 
-##Dashboard 
+## Dashboard 
 ![image](https://github.com/user-attachments/assets/bff17404-9f50-4ee0-9116-8753d5896e8a)
 ![image](https://github.com/user-attachments/assets/f21efd48-e3d0-445a-8e68-0d20c34c0856)
 ![image](https://github.com/user-attachments/assets/83790d9e-179b-4cad-b9b0-49f4223455f3)
